@@ -1,1 +1,1 @@
-# studious-octo-fiesta
+# Zadania wykonane na przedmiot systemy operacyjne, wykorzystujące miezy innymi VFS (virtual file system), obsługę gniazd oraz manipulację nimi, również znajdują się w nich skrypty wykorzytujący wątki oraz manipulujące procesami. Zadania zostały wykonane z częściową pomocą prowadzącego zajęcia.  

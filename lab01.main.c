@@ -1,5 +1,5 @@
 //lab1
-//ne41459@zut.edu.pl
+//niez
 #include <sys/types.h>
 #include <unistd.h>
 #include <stdio.h>
